@@ -52,7 +52,7 @@ Make works
 <img src="https://github.com/user-attachments/assets/606ec90a-356a-4834-84b6-a0f8ae65a10e" alt="Image 1">
 
 Local Host works
-<img src="https://github.com/user-attachments/assets/49941ac8-8c9b-430f-a828-a4a1f0f180f7" alt="Image 1">
+<img src="https://github.com/user-attachments/assets/e2d3a01e-bcc0-4a40-a6c2-a24938fa4df4" alt="Image 1">
 
 **Step 8**
 
