@@ -103,15 +103,16 @@ Flags are made using Wikipedia images
 - I have been playing tennis for many years and I enjoy it a lot. My goal is to make the Del Norte JV team in february.
 - I love playing piano.
 - I love sketching animals.
-- 
+- I have been learning how to make my own video games and create 3d modeled assets in my sapre time.
 
-### Culture, Family, and Fun
+### Family
 
-Everything for me, as for many others, revolves around family and faith.
+I love spending time with my family.
 
-- My mother told me that I was Danish, English. and Irish, here is my researched [family tree]({{site.baseurl}}/images/about/familytree.png)
-- My family is pretty big as I have been married twice, my 1st wife passed away.  We have had 5 kids, 4 adopted by me, 1 biological.  Plus, there are three grandkids.  My name to my grandkids is Abuilito.
-- The gallery of pics has some of my family, fun, culture and faith memories.
+- My family is from India and my parents were born there.
+- Both of my parents are software engineers which inspired me to take this class.
+- I have 1 sibling (younger sister)
+- I have a dog who is a Tibetan Doodle and has 2 different colored eyes.
 
 <comment>
 Gallery of Pics, scroll to the right for more ...

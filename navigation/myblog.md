@@ -16,7 +16,8 @@ The first step was creating a Github account. Github is a platform used for soft
 
 The second step was to create a repository in Github. A repository is important because it stores files and keeps track of changes. A repository is like the home base of a project. To create our repository we used a student template on github from Open Coding Society.
 
-  <img src="https://private-user-images.githubusercontent.com/243601801/522568589-36101c5a-82ff-43b2-8de3-6241c0ae3829.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjUxNTU4NjQsIm5iZiI6MTc2NTE1NTU2NCwicGF0aCI6Ii8yNDM2MDE4MDEvNTIyNTY4NTg5LTM2MTAxYzVhLTgyZmYtNDNiMi04ZGUzLTYyNDFjMGFlMzgyOS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMjA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTIwOFQwMDU5MjRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kZTJiZmFjMzJlMWYxNjRhYjgxYTNjOGZmZDJiM2JkOWI4OWM3MmI0NjlkOGU4MjNlYmQ3NTkwN2M3ZmNlNzM1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.h51SrXTy-2L2CKAfK1SBVkhWF_vNecdR-A_aqljhG0M" alt="Image 1">
+My repository
+  <img src="https://github.com/user-attachments/assets/36101c5a-82ff-43b2-8de3-6241c0ae3829" alt="Image 1">
 
 **Step 3**
 
@@ -30,27 +31,35 @@ After using the browser version of VSCode we installed the app which allows ever
 
 The fifth step of our process was to create a usable workspace on our computer. We ran commands in terminal which created an opencs folder and then cloned a github repository and activated the venv which is a virtual environment.
 
-<img src="https://private-user-images.githubusercontent.com/243601801/522572512-5d0a885a-a57d-4a33-864d-8537c4332b53.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjUxNTU4MzgsIm5iZiI6MTc2NTE1NTUzOCwicGF0aCI6Ii8yNDM2MDE4MDEvNTIyNTcyNTEyLTVkMGE4ODVhLWE1N2QtNGEzMy04NjRkLTg1MzdjNDMzMmI1My5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMjA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTIwOFQwMDU4NThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wYmNjMWRhOTg5NDAyOTdjYmU2NDQyMmE4ZDU3NzdlOGRiYjM0NWZiNWJkMzBiNzYyN2ViN2ZlOTc3NWQ3NThhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.r7t2cR5c1_hu4bWgsHtrCMJUMIzGuKemHRvj0AQJb58" alt="Image 1">
+Commands we used
+<img src="https://github.com/user-attachments/assets/5d0a885a-a57d-4a33-864d-8537c4332b53" alt="Image 1">
 
 **Step 6** 
 
 Next we did an extremely similar proccess be navigating to our directory and cloning another repository, this time by using our personal github username. We activated the venv again and then launched the project in VSCode.
 
-<img src="https://private-user-images.githubusercontent.com/243601801/523054635-6716f919-9ee3-4cd0-88f6-87387ee85cf0.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjUxNTU4MzgsIm5iZiI6MTc2NTE1NTUzOCwicGF0aCI6Ii8yNDM2MDE4MDEvNTIzMDU0NjM1LTY3MTZmOTE5LTllZTMtNGNkMC04OGY2LTg3Mzg3ZWU4NWNmMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMjA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTIwOFQwMDU4NThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xNzkxOTg1NTQ0NmNkZmY0OWU2ODcyOTQ2ZTA2YTA5YWNlNzBmNDk3Y2VhZWVjNDAwNjk0ZGVhODEwZjYwYzY0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.8fA4GmmV4B8TLWH1teWsRf297dWP3kok6WN0iWpq-A4" alt="Image 1">
+COmmands we used
+<img src="https://github.com/user-attachments/assets/6716f919-9ee3-4cd0-88f6-87387ee85cf0" alt="Image 1">
 
 **Step 7**
 
 The seventh step was to open a terminal in VScode and run the command, "make". This command runs everthing in the makefile which starts the server and creates a local host. The local host is like a test server where we can visualize our changes.
 
-<img src="https://private-user-images.githubusercontent.com/243601801/523063327-606ec90a-356a-4834-84b6-a0f8ae65a10e.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjUxNTU4MzgsIm5iZiI6MTc2NTE1NTUzOCwicGF0aCI6Ii8yNDM2MDE4MDEvNTIzMDYzMzI3LTYwNmVjOTBhLTM1NmEtNDgzNC04NGI2LWEwZjhhZTY1YTEwZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMjA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTIwOFQwMDU4NThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xYzJiMmYzZDNjZTk2YzJlODM0NzVkZWExZGExZjcxMTdmNjQxNzU2Y2M5M2M4ZjgyMmE0ODM1MDVjOWQ3ZjBhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.0wvBeyjmTLTdQaHGWP-czj6uM8gl58yn3qnV_FmW4K8" alt="Image 1">
+Make works
+<img src="https://github.com/user-attachments/assets/606ec90a-356a-4834-84b6-a0f8ae65a10e" alt="Image 1">
+
+All my tools are working 
+<img src="https://github.com/user-attachments/assets/606ec90a-356a-4834-84b6-a0f8ae65a10e" alt="Image 1">
 
 **Step 8**
 
 The last step to making this blog was following the VSCode workflow by making changes, commiting the changes then testing the changes and lastly syncing the changes. This updates the website internally before updating on a public location.
 
-<img src="https://private-user-images.githubusercontent.com/243601801/522575300-18c85268-481a-495e-9b7a-23d514f11ad9.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjUxNTU4MzgsIm5iZiI6MTc2NTE1NTUzOCwicGF0aCI6Ii8yNDM2MDE4MDEvNTIyNTc1MzAwLTE4Yzg1MjY4LTQ4MWEtNDk1ZS05YjdhLTIzZDUxNGYxMWFkOS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMjA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTIwOFQwMDU4NThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03MGMzY2U4NWNmMTIzNGEzZjM0ZDJiZGI5NWYyMjU1Yzk5M2I4ZDQ2ZTA2OGMwZTM5YTI0OGY2ZDU2OGI3OGE3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.nG1Chv2Tc3T-QcsPPAjDHpIW08lWYaVEdtV6QtSz798" alt="Image 1">
+Proccess we followed
+<img src="https://github.com/user-attachments/assets/18c85268-481a-495e-9b7a-23d514f11ad9" alt="Image 1">
 
-<img src="https://private-user-images.githubusercontent.com/243601801/523055777-ea605d28-17eb-4fdf-8ae5-02f9b6b4bede.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjUxNTU4MzgsIm5iZiI6MTc2NTE1NTUzOCwicGF0aCI6Ii8yNDM2MDE4MDEvNTIzMDU1Nzc3LWVhNjA1ZDI4LTE3ZWItNGZkZi04YWU1LTAyZjliNmI0YmVkZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMjA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTIwOFQwMDU4NThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wNzY2ODc3ZWZhODc4Yjg1Mjc1ZjcwYjFiNGQxNTI1NDkwOGEzODBiMWFiMmUyYWRmMDg4NTdmZGQzMDYzMTExJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.wfL2jtgA1O0MfK6LOJUfkhm56rS94Row2TCDD2KOe6Y" alt="Image 1">
+My commits
+<img src="https://github.com/user-attachments/assets/ea605d28-17eb-4fdf-8ae5-02f9b6b4bede" alt="Image 1">
 
 
 
