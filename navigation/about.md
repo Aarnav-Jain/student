@@ -90,7 +90,7 @@ comments: true
 
 ### About Myself
 
-**These are some of my hobbies*
+**These are some of my hobbies**
 - I have been playing tennis for many years and I enjoy it a lot. My goal is to make the Del Norte JV team in february.
 - I love playing piano.
 - I love sketching animals.
