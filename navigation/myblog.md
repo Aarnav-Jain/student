@@ -38,8 +38,11 @@ Commands we used
 
 Next we did an extremely similar proccess be navigating to our directory and cloning another repository, this time by using our personal github username. We activated the venv again and then launched the project in VSCode.
 
-COmmands we used
+Commands we used
 <img src="https://github.com/user-attachments/assets/6716f919-9ee3-4cd0-88f6-87387ee85cf0" alt="Image 1">
+
+All my tools are working 
+<img src="https://github.com/user-attachments/assets/55991945-45ce-4c44-9c7a-4ce02ee8a5e9" alt="Image 1"
 
 **Step 7**
 
@@ -48,8 +51,8 @@ The seventh step was to open a terminal in VScode and run the command, "make". T
 Make works
 <img src="https://github.com/user-attachments/assets/606ec90a-356a-4834-84b6-a0f8ae65a10e" alt="Image 1">
 
-All my tools are working 
-<img src="https://github.com/user-attachments/assets/606ec90a-356a-4834-84b6-a0f8ae65a10e" alt="Image 1">
+Local Host works
+<img src="https://github.com/user-attachments/assets/49941ac8-8c9b-430f-a828-a4a1f0f180f7" alt="Image 1">
 
 **Step 8**
 
