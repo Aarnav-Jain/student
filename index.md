@@ -5,7 +5,9 @@ hide: true
 show_reading_time: false
 ---
 
-Hi! My name is Aarnav Jain
+Hi! My name is Aarnav Jain. I am a freshman and 15 years old. I am so excited to learn computer science this trimester.
+
+
 
 ### Development Environment
 
