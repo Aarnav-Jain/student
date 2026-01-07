@@ -98,6 +98,47 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 </script>
 
+**Flags**
+
+<div id="grid_container"></div>
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+
+  const outputElement = document.getElementById("grid_container");
+  if (!outputElement) return;
+
+  const living_in_the_world = [
+    {flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_India_%283-5%29.svg/640px-Flag_of_India_%283-5%29.svg.png", greeting: "", description: "Indian Flag"},
+    {flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_California.svg/640px-Flag_of_California.svg.png", greeting: "", description: "California Flag"},
+    {flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Pro-Confederate_15_star_American_flag_%281861%29.png/640px-Pro-Confederate_15_star_American_flag_%281861%29.png", description: "USA flag"}
+  ];
+
+  outputElement.style.display = "grid";
+  outputElement.style.gridTemplateColumns = "repeat(auto-fill, minmax(150px, 1fr))";
+  outputElement.style.gap = "10px";
+
+  for (const location of living_in_the_world) {
+    const item = document.createElement("div");
+    item.style.textAlign = "center";
+
+    const img = document.createElement("img");
+    img.src = location.flag;
+    img.style.height = "100px";
+
+    const desc = document.createElement("p");
+    desc.textContent = location.description;
+
+    const greet = document.createElement("p");
+    greet.textContent = location.greeting;
+
+    item.append(img, desc, greet);
+    outputElement.appendChild(item);
+  }
+
+});
+</script>
+
 
 
 ### About Myself
